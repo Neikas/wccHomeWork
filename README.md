@@ -6,7 +6,7 @@ This is Example AutoComplete
 
  **By Neikas**
 
-live commint soon
+live coming soon
 
 ## Installation
 
