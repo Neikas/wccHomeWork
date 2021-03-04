@@ -21,8 +21,8 @@ Please make sure to update tests as appropriate.
 
 ### TASK 2
 - [x] Dizainą įgyvendinti kuo panašesnį į pateiktą žemiau. Pikselių nematuosime, tačiau į centravimą ir bendrą išdėstymą atsižvelgsime. ( Nesu profesionalas su Tailwind tik pradedu, tikiuosi suprasit (:  )
-- [x]Stiliaus aprašus stenkitės išlaikyti tvarkingus, vengiant nereikalingų komandų. 
-- [x]Paieškos langas turi leisti įvesti paieškos tekstą ir pateikti galimus variantus ( gali būti ir be API pajungimo, tiesiog statiniai duomenys)
+- [x] Stiliaus aprašus stenkitės išlaikyti tvarkingus, vengiant nereikalingų komandų. 
+- [x] Paieškos langas turi leisti įvesti paieškos tekstą ir pateikti galimus variantus ( gali būti ir be API pajungimo, tiesiog statiniai duomenys)
 
 ### TASK 2
 - [x] Stilių aprašams naudoti modernius stiliaus įrankius kaip PostCSS ar SASS.
