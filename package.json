@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Neikas.githun.io/wccHomeWork",
+  "homepage": "https://neikas.github.io/wccHomeWork/",
   "name": "wcc-home-work",
   "version": "0.1.0",
   "private": true,
@@ -16,6 +16,7 @@
     "web-vitals": "^1.1.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
     "deply": "gh-pages -d build",
     "start": "craco start",
     "build": "craco build",
