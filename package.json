@@ -1,4 +1,5 @@
 {
+  "homepage": "http://Neikas.githun.io/wccHomeWork",
   "name": "wcc-home-work",
   "version": "0.1.0",
   "private": true,
@@ -15,6 +16,7 @@
     "web-vitals": "^1.1.0"
   },
   "scripts": {
+    "deply": "gh-pages -d build",
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
@@ -41,6 +43,7 @@
   "devDependencies": {
     "@tailwindcss/postcss7-compat": "^2.0.3",
     "autoprefixer": "^9.8.6",
+    "gh-pages": "^3.1.0",
     "postcss": "^7.0.35",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.3"
   }
